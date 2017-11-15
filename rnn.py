@@ -21,10 +21,10 @@ regr = linear_model.LinearRegression()
 app = Flask(__name__)
 CORS(app)
 
-UPLOAD_FOLDER = '/opt/lampp/htdocs/img/neuralnet/'
+UPLOAD_FOLDER = '/'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-socketIO = SocketIO('https://huseinzol05.dynamic-dns.net', 9001)
+socketIO = SocketIO('https://, 9001)
 net_namespace = socketIO.define(BaseNamespace, '/rnnnet')
 
 def iqr(a):
