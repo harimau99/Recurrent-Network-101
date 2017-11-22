@@ -1,6 +1,8 @@
 # Recurrent-Network-101
 Train your own time-stamp data-set on browser using deep recurrent neural network
 
+## Try it live [HERE](http://www.huseinhouse.com/recurrentnet/)
+
 ### Predict your own data-set historical stock / forex / crypto using customized Recurrent Neural Network on the browser!
 It supports:
 1. upload custom data-set
@@ -28,6 +30,5 @@ Included GIF trained on 1 year GOOGLE stock market.
 ![alt text](screenshot/gif2.gif)
 ![alt text](screenshot/1.png)
 ![alt text](screenshot/2.png)
-http://www.huseinhouse.com/recurrentnet/
 
 
